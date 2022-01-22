@@ -15,5 +15,9 @@ Table Menu :-
 5) Select From Table
 6) Delete From Table
 
+# Data Types supported 
+1) Int
+2) string 
+
 # Start
  Run main.sh in your terminal
