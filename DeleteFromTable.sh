@@ -1,5 +1,5 @@
 #! /bin/bash
-echo -e "Enter Table Name:\c" 
+echo -e "Enter TableName:\c" 
 read TableName
     if ! [[ -f Databases/$db_name/Data/$TableName ]]; then
     echo "Table does exist"
